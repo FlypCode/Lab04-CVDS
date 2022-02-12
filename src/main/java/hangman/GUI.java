@@ -33,7 +33,6 @@ public class GUI {
     private Language language;
     private HangmanDictionary dictionary;
     private HangmanPanel hangmanPanel;
-
     private MainFrameController mainFrameController;
 
     private SplashController splashController;
